@@ -263,6 +263,8 @@ map =
         ]
 ```
 
+![screenshot](sample.png)
+
 ### Source of Data
 
 UK Traffic Accidents
