@@ -270,4 +270,4 @@ map =
 UK Traffic Accidents
 https://www.kaggle.com/code/ambaniverma/uk-traffic-accidents
 
-As the original whole dataset is over 100 MB, only fatal traffic accidents are filtered out for this coursework.
+As the original whole dataset is over 100 MB, only fatal traffic accidents are filtered out for this project.
