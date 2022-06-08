@@ -14,14 +14,14 @@ import Tidy exposing (..)
 import VegaLite exposing (..)
 ```
 
-# Data Visualization Project Summary
+# Fatal Traffic Accidents in the UK (2005 - 2015)
 
 ```elm {l=hidden}
 accidentData =
     dataFromUrl "https://cecilialiss.github.io/web/uk_accidents_fatal_clean.csv" []
 ```
 
-#### Direction:
+#### Direction for the dashboard:
 
 Drag to choose a time window in any of three bar charts. The corresponding records on the map and the other two bar charts will be shown. Double click on the bar chart to return to default setting. Move the cursor to the bar charts to show details.
 
